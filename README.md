@@ -6,7 +6,7 @@ This repository contains code for several machine learning classification projec
 
 ### Job Skills Classification
 
-The `job_skills_classification` directory contains code for a machine learning project that aims to classify job postings based on the required skills. The project uses a dataset of job postings and their associated skills, and trains a supervised learning model to predict the skills needed for new job postings.
+The job_skills_classification directory contains code for a machine learning project that aims to classify job postings based on the required skills. The project uses a dataset of job postings and their associated skills, and trains a supervised learning model to predict the jobs needed for specific skills.
 
 
 ## Getting Started
