@@ -8,6 +8,9 @@ This repository contains code for a machine learning project that aims to classi
 
 The dataset used in this project is the Job Skills dataset from stack overflow survey 2021. It contains over 83439 job postings and their associated skills, categorized into 30 job categories.
 
+## Goal
+The goal of this project is to direct students to jobs that suit their skills. The decision is made based on a learning model for any trainer based on survey data from Stack Overflow for the year 2021.
+
 ## Notebooks
 
 There are three Jupyter notebooks in this repository:
